@@ -1,5 +1,5 @@
 # Library-for-integers-of-arbitary-lenghts
-A C library that does basic arithmetic operations (add, sub, multiply, divide and exponents) on Integers of arbitary lenghts
+A C library that does basic arithmetic operations (add, sub, multiply, divide and exponents) on Integers of arbitary lenghts done as a part of the in-class project for the algorithms course.
 # Addition: 
   - The numbers are added by a brute force method.
   - Each element of the two numbers are added with the carry(which is zero initially).  
